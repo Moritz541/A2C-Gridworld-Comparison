@@ -3,4 +3,4 @@ In the following 3 models are tested against each other. All of them are deep re
 The files starting with GridworldA2CRandom contain the general training code as well as the specified hyperparameters. 
 The files starting with GridworldAgentEnvRandom contain the agent and environment classes needed for running the general training file. They need not be run by the user.
 The ending of the files show if the model either uses LSTM or handmade memory/no memory.
-There is also a file containing first test results included.
+There is also a pdf-file in this repository containing first test results.
